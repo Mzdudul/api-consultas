@@ -8,7 +8,7 @@ import com.consulta.api_consultas.service.DoctorService;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 
-
+//doctor
 @RestController
 @RequestMapping("/api/doctor")
 public class DoctorController {
